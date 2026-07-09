@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GitHub README \u0026 Description Generator",
+  "description": "An AI-powered generator that connects to your GitHub account via OAuth, analyzes repository structures and files, and automatically generates high-quality README.md files and repository descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
