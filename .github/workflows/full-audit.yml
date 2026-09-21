@@ -33,5 +33,5 @@ jobs:
         run: python -m compileall -q .
       - uses: github/codeql-action/init@v3
         with:
-          languages: javascript-typescript,python,java-kotlin
+          languages: javascript-typescript,python
       - uses: github/codeql-action/analyze@v3
